@@ -9,7 +9,7 @@ Converts Minecraft: **Legacy Console Edition** worlds between **Xbox 360**,
 Built on [dtentiion/LCE-Save-Converter](https://github.com/dtentiion/LCE-Save-Converter),
 which handles the console → Win64 direction; 
 
-the Win64 → console direction and the emulator format are new.
+the (Win64) → (console) direction and the emulator format are new.
 
 ---
 
