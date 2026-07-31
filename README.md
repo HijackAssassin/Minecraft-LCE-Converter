@@ -7,9 +7,9 @@ Converts Minecraft: **Legacy Console Edition** worlds between **Xbox 360**,
 **not** Minecraft: Windows 10 Edition.
 
 Built on [dtentiion/LCE-Save-Converter](https://github.com/dtentiion/LCE-Save-Converter),
-which handles the console → Win64 direction; 
+which handles the (Xbox 360/PS3) → (Win64) direction; 
 
-the (Win64) → (console) direction and the emulator format are new.
+the (Win64) → (Xbox 360/PS3) direction and the emulator format are new.
 
 ---
 
